@@ -1,7 +1,6 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
-import Dashboard from "./componenets/Dashboard";
+import Dashboard from "./screens/Dashboard";
 
 function App() {
   return (
